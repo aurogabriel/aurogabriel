@@ -9,10 +9,17 @@
 
 ---
 
-### 📊 Minhas estatísticas Públicas do GitHub
+### ⚙️ Minhas estatísticas públicas do GitHub & vibe embarcada
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurogabriel&layout=compact&theme=github_dark&hide_title=true) |
-|:--:|:--:|
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurogabriel&layout=compact&theme=github_dark&hide_title=true)
+
+---
+
+### 🧠 Pulsos de um cérebro embarcado:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kroitor/asciicast-to-svg/master/doc/demo-waveform.svg" alt="Embedded Waveform Animation" width="400" />
+</p>
 
 ---
 
