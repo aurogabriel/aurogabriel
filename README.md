@@ -13,12 +13,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurogabriel&layout=compact&theme=github_dark&hide_title=true)
 
----
+### 🐍 Jogo da Cobrinha!
 
-### 🧠 Pulsos de um cérebro embarcado:
+[▶️ Clique aqui para jogar!](https://yourusername.github.io/snake-game)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kroitor/asciicast-to-svg/master/doc/demo-waveform.svg" alt="Embedded Waveform Animation" width="400" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
